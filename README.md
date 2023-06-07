@@ -3,4 +3,4 @@
 # usage: python3 bulk-rename.py (file)/(path)
 # The new folder will be created alongside the program, so it's probably best to just move bulk-rename with the folder you want to duplicate. ALthough it's not necessary.
 
-# A test folder is held alongside to do some testing with.
+# An image and text file is held alongside to do some testing with.
